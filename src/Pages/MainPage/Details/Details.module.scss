@@ -1,0 +1,48 @@
+.addCustomer
+      {
+        margin-top: 1rem;
+        height: 4rem;
+        width: 5rem;
+        // padding-top: 4rem;
+        margin-left: 10rem;
+        // margin-bottom:0 ;
+        background-color: black;
+        // margin-left: 10rem;
+        
+        color: black;
+        Button
+        {
+            background-color: black;
+            margin-left: 3rem;
+        }
+        Button:hover
+        {
+          cursor: pointer;
+          background-color: black;
+          
+        }
+      }
+.customer
+{
+  .select
+  {
+    padding-bottom: 2rem;
+  }
+    // margin-top: 0;
+    padding-top: 1rem;
+    // position: absolute;
+    // top: 2rem;
+    padding-left: 4rem;
+    padding-right: 4rem;
+    // height: 500px;
+    // width: 50rem;
+//    margin-bottom: 10rem;
+    // margin-left:-3rem;
+    // margin-right:7rem ;
+    // padding: 5rem;
+
+}
+.pagination
+{
+  padding-left: 20rem;
+}
